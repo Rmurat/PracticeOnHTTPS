@@ -1,2 +1,2 @@
 File2 content
-Integer
+Integer 1234;
